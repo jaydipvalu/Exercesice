@@ -7,7 +7,7 @@
                <a href="javascript:void(0)">Brakes & Rotors,</a>
                <a href="javascript:void(0)">Lighting,</a>
                <a href="javascript:void(0)">Perfomance,</a>
-               <a href="javascript:void(0)">Wheels & Tires</a>
+               <a href="js:void(0)">Wheels & Tires</a>
             </div>
          </div>
       </div>
