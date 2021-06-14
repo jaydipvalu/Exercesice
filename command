@@ -14,5 +14,4 @@
    </div>
 </div>
 Using index info to reconstruct a base tree...
-A   ch10.asciidoc
-Falling back to patching base and 3-way merge...
+A   ch10.name
