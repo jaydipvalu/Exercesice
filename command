@@ -13,5 +13,15 @@
       </div>
    </div>s
 </div>
+<<<<<<< HEAD
 values are allowed in that Hash
 commit the new content
+=======
+<<<<<<< HEAD
+How to identify merge How to identify fix conflicts
+6.3.2 Using Strong Parameters
+=======
+How to identify merge How to identify merge conflicts
+6.3.6 Using Strong Parameters
+>>>>>>> 6cb97d8 (new update command file)
+>>>>>>> 7887781 (fix conflicts)
