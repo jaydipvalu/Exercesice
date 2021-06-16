@@ -13,3 +13,4 @@
       </div>
    </div>s
 </div>
+How to identify merge conflicts
