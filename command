@@ -14,5 +14,5 @@
    </div>s
 </div>
 values are allowed in that Hash
-commit the new content
-overwrite the content in merge.txt
+commit the old content
+overwrite the content in merge.pdf  
