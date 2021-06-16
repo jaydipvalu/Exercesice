@@ -13,5 +13,4 @@
       </div>
    </div>s
 </div>
-Using index info to reconstruct a base tree...
-A   ch10.name
+Using index info to reconstruct a tree...
