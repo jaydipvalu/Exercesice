@@ -13,14 +13,4 @@
       </div>
    </div>s
 </div>
-How to identify merge How to identify fix conflicts
-6.3.2 Using Strong Parameters
-<<<<<<< HEAD
-Submitted form data is put into the
-=======
-=======
-How to identify merge How to identify merge conflicts
-6.3.6 Using Strong Parameters
->>>>>>> 6cb97d8 (new update command file)
-Submitted form data is put enter the 
->>>>>>> 46aa93b (one line add)
+values are allowed in that Hash
