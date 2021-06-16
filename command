@@ -7,10 +7,11 @@
                <a href="javascript:void(0)">Brakes & Rotors,</a>
                <a href="javascript:void(0)">Lighting,</a>
                <a href="javascript:void(0)">Perfomance,</a>
-               <a href="js:void(0)">Wheels & one</a>
+               <a href="js:void(0)">Wheels & few</a>
             </div>
          </div>
       </div>
    </div>s
 </div>
-How to identify merge How to identify merge conflicts
+How to identify merge How to identify fix conflicts
+6.3.2 Using Strong Parameters
