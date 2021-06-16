@@ -13,9 +13,3 @@
       </div>
    </div>s
 </div>
-<<<<<<< HEAD
-Using index info to reconstruct a tree...
-=======
-Using index info to reconstruct a base tree...
-A   ch10.asciidoc
->>>>>>> 8b5dfe3a8e4790e751012245ceb413def4c03617
