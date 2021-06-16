@@ -24,4 +24,8 @@ How to identify merge How to identify fix conflicts
 How to identify merge How to identify merge conflicts
 6.3.6 Using Strong Parameters
 >>>>>>> 6cb97d8 (new update command file)
+<<<<<<< HEAD
 >>>>>>> 7887781 (fix conflicts)
+=======
+Submitted form data is put enter the 
+>>>>>>> 46aa93b (one line add)
