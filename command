@@ -15,3 +15,4 @@
 </div>
 How to identify merge How to identify fix conflicts
 6.3.2 Using Strong Parameters
+Submitted form data is put into the
