@@ -13,5 +13,4 @@
       </div>
    </div>s
 </div>
-values are allowed in that Hash
-commit the new content
+How to identify merge How to identify fix conflicts
